@@ -11,11 +11,8 @@ List of Common Machine Learning Algorithms
 ## -Random Forest
 ## -Dimensionality Reduction Algorithms
 
-## -Gradient Boosting algorithms
-### -  (GBM
-### -  XGBoost
-### -  LightGBM
-### -  CatBoost)
+## -Gradient Boosting algorithms ### -  (GBM , XGBoost , LightGBM , CatBoost)
+
 
 
 
